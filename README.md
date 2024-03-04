@@ -1,6 +1,6 @@
 ## RICK AND MORTY API
 
-### Projeto realizado para conclusão da cadeira de Frontend da Pós Graduação em Desenvolvimento Web Fullstack no UNIPÊ
+### Projeto da disciplina Arquitetura Frontend da Pós Graduação em Desenvolvimento Web Fullstack no UNIPÊ - 2024.
 
 ### Deploy
 
@@ -8,6 +8,11 @@
 npm i
 npm run serve
 ```
+
+### Localhost
+
+- http://localhost:5173/
+
 
 #### Objetivo
 
